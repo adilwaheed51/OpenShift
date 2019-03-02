@@ -3,6 +3,4 @@ server:
 spring:
   application:
     name: Openshift Demo
-  profiles:
-    active:
-    - dev
+
