@@ -15,7 +15,7 @@ public class OpenshiftApplication {
 
 	@GetMapping("/hello")
 	public String hello() {
-		return "This is from Openshift version 1.0";
+		return "This is from Openshift version 1.2";
 	}
 
 }
